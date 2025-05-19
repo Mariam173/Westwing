@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         This is the repo
-        gba update 
+        gba update eh
       </div>
     </>
   )
